@@ -1,9 +1,8 @@
-###
+### Hi there
 # 
 
--E-mail: swlinda06@dimigo.hs.kr
--
- *
+
+ *E-mail: swlinda06@dimigo.hs.kr
 
 <!--
 **swlinda/swlinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
