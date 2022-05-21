@@ -1,8 +1,7 @@
-### Hi there 👋
-#서예은
-##happy
+###
+# 
 
--
+-E-mail: swlinda06@dimigo.hs.kr
 -
  *
 
