@@ -1,5 +1,5 @@
 ### Hi there
-This is Yeeun Seo, I'm interested in coding such as python and 
+This is Yeeun Seo, I'm interested in coding such as python and C language.
 
 
  *E-mail: swlinda06@dimigo.hs.kr
